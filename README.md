@@ -4,9 +4,7 @@
 
 
 # 💫 About Me:
-<h3 align="center">I'm  beginner  Full Stack Web Developer from Ukraine</h3>
- 
-
+I'm  beginner  Full Stack Web Developer from Ukraine
 
 
 
