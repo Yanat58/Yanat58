@@ -2,7 +2,7 @@
   <img src="marquee_text.gif" alt="Hi there, I'm Tetiana Karlova!">
 </p>
 
-<h1 align="center" color="blue">Hi there, I'm Tetiana Karlova 
+<h1 align="center" style="color:blue">Hi there, I'm Tetiana Karlova 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
