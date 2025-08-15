@@ -1,7 +1,16 @@
+  <div align="center">
+    <img src="./assets/github1.gif" width="300">
+
+  </div>
 
 
-<h1 align="center"  style="color:blue">Hi there, I'm Tetiana Karlova
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+  <h1 align="center">
+    <a href="https://git.io/typing-svg"><img
+        src="https://readme-typing-svg.demolab.com?font=Lora&weight=600&size=34&pause=1000&color=2356B7&center=true&width=500&height=150&lines=Hi+there%2C+I'm+Tetiana+"
+        alt="Typing SVG" /></a>
+  </h1>
+
+
 
 
 # 💫 About Me:
