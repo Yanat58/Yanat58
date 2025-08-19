@@ -86,7 +86,7 @@
 <tr>
       <td align="center" width="70">
          <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="./assets/image/nodejs.svg" alt="nodejs" width="40" height="40" /></a>
+      <img src="./assets/image/nodejs.svg" alt="nodejs" width="50" height="50" /></a>
       </td>
 
 <td align="center" width="70">
