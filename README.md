@@ -1,5 +1,5 @@
   <div align="center">
-    <img src="./assets/github1.gif" width="300" />
+    <img src="./assets/github1.gif" width="200" />
  <h1>
       <a href="https://git.io/typing-svg">
         <img
@@ -45,7 +45,8 @@
   <table align="center">
     <tr>
       <td align="center" width="70">
-        <img src="./assets/image/html5.svg" alt="html5" width="40" height="40" />
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+      <img src="./assets/image/html5.svg" alt="html5" width="40" height="40" /></a>
       </td>
 
  <td align="center" width="70">
