@@ -70,7 +70,6 @@
 <td align="center" width="70">
          <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img src="./assets/image/react.svg" alt="react" width="40" height="40" /></a>
-
       </td>
 
 <td align="center" width="70">
@@ -81,7 +80,6 @@
  <td align="center" width="70">
          <a href="https://vite.dev" target="_blank" rel="noreferrer">
       <img src="./assets/image/vitejs.svg" alt="vite" width="40" height="40" /></a>
-
       </td>
       </tr>
         
@@ -96,22 +94,19 @@
       <img src="./assets/image/docker.svg" alt="docker" width="40" height="40" /></a>
       </td>
 
- <td align="center" width="70">
-        <img src="./assets/image/mongodb.svg" alt="mongodb" width="40" height="40" /> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+ <td align="center" width="70">       
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img src="./assets/image/mongodb.svg" alt="mongodb" width="40" height="40" /></a>
-
       </td>
 
  <td align="center" width="70">
         <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
       <img src="./assets/image/postman.svg" alt="postman" width="40" height="40" /></a>
-
       </td>
 
 <td align="center" width="70">
        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="./assets/image/git.svg" alt="git" width="40" height="40" /></a>
-
       </td>
 
 <td align="center" width="70">
