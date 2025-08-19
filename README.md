@@ -16,12 +16,14 @@
   </div>
 
   ## 👩‍💻 About Me:
-
+  
+<div align="center">
   <p>✨ Beginner developer from Ukraine</p>
   <p>🌝 Creating mistakes since 2023 year</p>
+</div>
 
   ## 📬 Connect with me:
-  <div display="flex" gap="10px" align="left">
+  <div align="center">
     <p aligen="left">
       <a href="https://linkedin.com/in/tetiana-karlova-083784270" target="blank"><img align="center"
           src="./assets/image/linkedin.png" alt="www.linkedin.com/in/ tetiana-karlova-083784270" height="40"
@@ -132,11 +134,11 @@
 
 ## 📊 GitHub Stats:
 
-<div align="center" width="80%" >  
+<div align="center" width="100%"   
 
-<p>&nbsp;<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Yanat58&theme=vue&hide_border=true&include_all_commits=false&count_private=false"
- /></p>
-<p><img align="rigth" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanat58&theme=vue&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></p>
+<img  width="47%" src="https://github-readme-stats.vercel.app/api?username=Yanat58&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false"
+ />&nbsp;&nbsp;&nbsp;
+<img  width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanat58&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=donut&langs_count=8" />
 
 </div>
 
