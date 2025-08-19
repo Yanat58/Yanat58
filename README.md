@@ -134,11 +134,11 @@
 
 ## 📊 GitHub Stats:
 
-<div align="center" width="100%"   
+<div align="center" >   
 
-<img  width="47%" src="https://github-readme-stats.vercel.app/api?username=Yanat58&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false"
+<img  height="195" src="https://github-readme-stats.vercel.app/api?username=Yanat58&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false"
  />&nbsp;&nbsp;&nbsp;
-<img  width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanat58&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=donut&langs_count=8" />
+<img  height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanat58&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=donut&langs_count=8" />
 
 </div>
 
