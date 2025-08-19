@@ -1,5 +1,5 @@
   <div align="center">
-    <img src="./assets/github1.gif" width="200" />
+    <img src="./assets/github1.gif" width="150" />
  <h1>
       <a href="https://git.io/typing-svg">
         <img
@@ -18,9 +18,7 @@
   ## 👩‍💻 About Me:
 
   <p>✨ Beginner developer from Ukraine</p>
-  <p>🌝 Creating mistakes since 2023</p>
-  <p>📚 I am currently learning English</p>
-
+  <p>🌝 Creating mistakes since 2023 year</p>
 
   ## 📬 Connect with me:
   <div display="flex" gap="10px" align="left">
@@ -50,65 +48,85 @@
       </td>
 
  <td align="center" width="70">
-        <img src="./assets/image/css3.svg" alt="css3" width="40" height="40" />
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+      <img src="./assets/image/css3.svg" alt="css3" width="40" height="40" /></a>
       </td> 
 
 <td align="center" width="70">
-        <img src="./assets/image/sass.svg" alt="sass" width="40" height="40" />
+        <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+      <img src="./assets/image/sass.svg" alt="sass" width="40" height="40" /></a>
       </td>
 
 <td align="center" width="70">
-        <img src="./assets/image/tailwindcss.svg" alt="tailwind" width="40" height="40" />
+         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+      <img src="./assets/image/tailwindcss.svg" alt="tailwind" width="40" height="40" /></a>
       </td>
 
 <td align="center" width="70">
-        <img src="./assets/image/javascript.svg" alt="javascript" width="40" height="40" />
+       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img src="./assets/image/javascript.svg" alt="javascript" width="40" height="40" /></a>
       </td>
 
 <td align="center" width="70">
-        <img src="./assets/image/react.svg" alt="react" width="40" height="40" />
+         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <img src="./assets/image/react.svg" alt="react" width="40" height="40" /></a>
+
       </td>
 
 <td align="center" width="70">
-        <img src="./assets/image/redux.svg" alt="redux" width="40" height="40" />
+        <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+      <img src="./assets/image/redux.svg" alt="redux" width="40" height="40" /></a>
       </td>
 
  <td align="center" width="70">
-        <img src="./assets/image/vitejs.svg" alt="vite" width="40" height="40" />
+         <a href="https://vite.dev" target="_blank" rel="noreferrer">
+      <img src="./assets/image/vitejs.svg" alt="vite" width="40" height="40" /></a>
+
       </td>
       </tr>
         
 <tr>
       <td align="center" width="70">
-        <img src="./assets/image/nodejs.svg" alt="nodejs" width="50" height="50" />
+         <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+      <img src="./assets/image/nodejs.svg" alt="nodejs" width="40" height="40" /></a>
       </td>
 
 <td align="center" width="70">
-        <img src="./assets/image/docker.svg" alt="docker" width="40" height="40" />
+       <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <img src="./assets/image/docker.svg" alt="docker" width="40" height="40" /></a>
       </td>
 
  <td align="center" width="70">
-        <img src="./assets/image/mongodb.svg" alt="mongodb" width="40" height="40" />
+        <img src="./assets/image/mongodb.svg" alt="mongodb" width="40" height="40" /> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <img src="./assets/image/mongodb.svg" alt="mongodb" width="40" height="40" /></a>
+
       </td>
 
  <td align="center" width="70">
-        <img src="./assets/image/postman.svg" alt="postman" width="40" height="40" />
+        <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+      <img src="./assets/image/postman.svg" alt="postman" width="40" height="40" /></a>
+
       </td>
 
 <td align="center" width="70">
-        <img src="./assets/image/git.svg" alt="git" width="40" height="40" />
+       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="./assets/image/git.svg" alt="git" width="40" height="40" /></a>
+
       </td>
 
 <td align="center" width="70">
-        <img src="./assets/image/figma.svg" alt="figma" width="40" height="40" />
+       <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+      <img src="./assets/image/figma.svg" alt="figma" width="40" height="40" /></a>
       </td>
 
  <td align="center" width="70">
-        <img src="./assets/image/photoshop.svg" alt="photoshop" width="40" height="40" />
+        <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+      <img src="./assets/image/photoshop.svg" alt="photoshop" width="40" height="40" /></a>
       </td>
 
  <td align="center" width="70">
-        <img src="./assets/image/trello.svg" alt="trello" width="40" height="40" />
+        <a href="https://www.trello.com/" target="_blank" rel="noreferrer">
+      <img src="./assets/image/trello.svg" alt="trello" width="40" height="40" /></a>
       </td>
 
 </tr>
