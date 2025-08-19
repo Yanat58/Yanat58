@@ -131,9 +131,15 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yanat58&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Yanat58&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanat58&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<div align="center" width="80%" >  
+
+<p>&nbsp;<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=yanat58&show_icons=true&locale=en" alt="yanat58" /></p>
+<p><img align="rigth" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yanat58&show_icons=true&locale=en&layout=compact" alt="yanat58" /></p>
+
+</div>
+
+<div align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yanat58&" alt="yanat58" /></div>
 
 
 
