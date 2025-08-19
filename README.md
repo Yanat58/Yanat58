@@ -136,7 +136,7 @@
 
 <p>&nbsp;<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Yanat58&theme=vue&hide_border=true&include_all_commits=false&count_private=false"
  /></p>
-<p><img align="rigth" width="35%" src="h[ttps://github-readme-stats.vercel.app/api/top-langs?username=yanat58&show_icons=true&locale=en&layout=compact" alt="yanat58](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanat58&theme=vue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)" /></p>
+<p><img align="rigth" width="35%" src="h[ttps://github-readme-stats.vercel.app/api/top-langs?username=yanat58&show_icons=true&locale=en&layout=compact" alt="yanat58](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanat58&theme=vue&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></p>
 
 </div>
 
