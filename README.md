@@ -142,7 +142,7 @@
 
 </div>
 
-<div align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yanat58&" alt="yanat58" /></div>
+<div align="center"><img height="195"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yanat58&" alt="yanat58" /></div>
 
 
 
